@@ -1,0 +1,10 @@
+{
+  "name": "musomap",
+  "version": "2.0.0",
+  "authors": [
+    "Kahne Raja"
+  ],
+  "dependencies": {
+    "muso-elements": "https://github.com/Musomap/muso-elements.git"
+  }
+}
